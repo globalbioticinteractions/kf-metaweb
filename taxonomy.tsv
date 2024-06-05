@@ -1,0 +1,447 @@
+Node	Genus	Family	Order	Class	Phylum	Kingdom	Category
+Detritus							D
+Anguilla	Anguilla	Anguillidae	Anguilliformes	Actinopterygii	Chordata	Animalia	F
+Conger	Conger	Congridae	Anguilliformes	Actinopterygii	Chordata	Animalia	F
+Oryzias	Oryzias	Adrianichthyidae	Beloniformes	Actinopterygii	Chordata	Animalia	F
+Hyporhamphus	Hyporhamphus	Hemiramphidae	Beloniformes	Actinopterygii	Chordata	Animalia	F
+Konosirus	Konosirus	Clupeidae	Clupeiformes	Actinopterygii	Chordata	Animalia	F
+Coilia	Coilia	Engraulidae	Clupeiformes	Actinopterygii	Chordata	Animalia	F
+Engraulis	Engraulis	Engraulidae	Clupeiformes	Actinopterygii	Chordata	Animalia	F
+Cobitis	Cobitis	Cobitidae	Cypriniformes	Actinopterygii	Chordata	Animalia	F
+Iksookimia	Iksookimia	Cobitidae	Cypriniformes	Actinopterygii	Chordata	Animalia	F
+Kichulchoia	Kichulchoia	Cobitidae	Cypriniformes	Actinopterygii	Chordata	Animalia	F
+Koreocobitis	Koreocobitis	Cobitidae	Cypriniformes	Actinopterygii	Chordata	Animalia	F
+Misgurnus	Misgurnus	Cobitidae	Cypriniformes	Actinopterygii	Chordata	Animalia	F
+Abbottina	Abbottina	Cyprinidae	Cypriniformes	Actinopterygii	Chordata	Animalia	F
+Acanthorhodeus	Acanthorhodeus	Cyprinidae	Cypriniformes	Actinopterygii	Chordata	Animalia	F
+Acheilognathus	Acheilognathus	Cyprinidae	Cypriniformes	Actinopterygii	Chordata	Animalia	F
+Aphyocypris	Aphyocypris	Cyprinidae	Cypriniformes	Actinopterygii	Chordata	Animalia	F
+Carassius	Carassius	Cyprinidae	Cypriniformes	Actinopterygii	Chordata	Animalia	F
+Coreoleuciscus	Coreoleuciscus	Cyprinidae	Cypriniformes	Actinopterygii	Chordata	Animalia	F
+Ctenopharyngodon	Ctenopharyngodon	Cyprinidae	Cypriniformes	Actinopterygii	Chordata	Animalia	F
+Culter	Culter	Cyprinidae	Cypriniformes	Actinopterygii	Chordata	Animalia	F
+Cyprinus	Cyprinus	Cyprinidae	Cypriniformes	Actinopterygii	Chordata	Animalia	F
+Erythroculter	Erythroculter	Cyprinidae	Cypriniformes	Actinopterygii	Chordata	Animalia	F
+Gnathopogon	Gnathopogon	Cyprinidae	Cypriniformes	Actinopterygii	Chordata	Animalia	F
+Gobiobotia	Gobiobotia	Cyprinidae	Cypriniformes	Actinopterygii	Chordata	Animalia	F
+Hemibarbus	Hemibarbus	Cyprinidae	Cypriniformes	Actinopterygii	Chordata	Animalia	F
+Hemiculter	Hemiculter	Cyprinidae	Cypriniformes	Actinopterygii	Chordata	Animalia	F
+Hypophthalmichthys	Hypophthalmichthys	Cyprinidae	Cypriniformes	Actinopterygii	Chordata	Animalia	F
+Ladislavia	Ladislavia	Cyprinidae	Cypriniformes	Actinopterygii	Chordata	Animalia	F
+Microphysogobio	Microphysogobio	Cyprinidae	Cypriniformes	Actinopterygii	Chordata	Animalia	F
+Opsariichthys	Opsariichthys	Cyprinidae	Cypriniformes	Actinopterygii	Chordata	Animalia	F
+Phoxinus	Phoxinus	Cyprinidae	Cypriniformes	Actinopterygii	Chordata	Animalia	F
+Pseudogobio	Pseudogobio	Cyprinidae	Cypriniformes	Actinopterygii	Chordata	Animalia	F
+Pseudopungtungia	Pseudopungtungia	Cyprinidae	Cypriniformes	Actinopterygii	Chordata	Animalia	F
+Pseudorasbora	Pseudorasbora	Cyprinidae	Cypriniformes	Actinopterygii	Chordata	Animalia	F
+Pungtungia	Pungtungia	Cyprinidae	Cypriniformes	Actinopterygii	Chordata	Animalia	F
+Rhodeus	Rhodeus	Cyprinidae	Cypriniformes	Actinopterygii	Chordata	Animalia	F
+Rhynchocypris	Rhynchocypris	Cyprinidae	Cypriniformes	Actinopterygii	Chordata	Animalia	F
+Sarcocheilichthys	Sarcocheilichthys	Cyprinidae	Cypriniformes	Actinopterygii	Chordata	Animalia	F
+Saurogobio	Saurogobio	Cyprinidae	Cypriniformes	Actinopterygii	Chordata	Animalia	F
+Squalidus	Squalidus	Cyprinidae	Cypriniformes	Actinopterygii	Chordata	Animalia	F
+Squaliobarbus	Squaliobarbus	Cyprinidae	Cypriniformes	Actinopterygii	Chordata	Animalia	F
+Tribolodon	Tribolodon	Cyprinidae	Cypriniformes	Actinopterygii	Chordata	Animalia	F
+Zacco	Zacco	Cyprinidae	Cypriniformes	Actinopterygii	Chordata	Animalia	F
+Lefua	Lefua	Nemacheilidae	Cypriniformes	Actinopterygii	Chordata	Animalia	F
+Orthrias	Orthrias	Nemacheilidae	Cypriniformes	Actinopterygii	Chordata	Animalia	F
+Gasterosteus	Gasterosteus	Gasterosteidae	Gasterosteiformes	Actinopterygii	Chordata	Animalia	F
+Pungitius	Pungitius	Gasterosteidae	Gasterosteiformes	Actinopterygii	Chordata	Animalia	F
+Chelon	Chelon	Mugilidae	Mugiliformes	Actinopterygii	Chordata	Animalia	F
+Mugil	Mugil	Mugilidae	Mugiliformes	Actinopterygii	Chordata	Animalia	F
+Hypomesus	Hypomesus	Osmeridae	Osmeriformes	Actinopterygii	Chordata	Animalia	F
+Osmerus	Osmerus	Osmeridae	Osmeriformes	Actinopterygii	Chordata	Animalia	F
+Plecoglossus	Plecoglossus	Plecoglossidae	Osmeriformes	Actinopterygii	Chordata	Animalia	F
+Salangichthys	Salangichthys	Salangidae	Osmeriformes	Actinopterygii	Chordata	Animalia	F
+Omobranchus	Omobranchus	Blenniidae	Perciformes	Actinopterygii	Chordata	Animalia	F
+Repomucenus	Repomucenus	Callionymidae	Perciformes	Actinopterygii	Chordata	Animalia	F
+Caranx	Caranx	Carangidae	Perciformes	Actinopterygii	Chordata	Animalia	F
+Trachurus	Trachurus	Carangidae	Perciformes	Actinopterygii	Chordata	Animalia	F
+Lepomis	Lepomis	Centrarchidae	Perciformes	Actinopterygii	Chordata	Animalia	F
+Micropterus	Micropterus	Centrarchidae	Perciformes	Actinopterygii	Chordata	Animalia	F
+Channa	Channa	Channidae	Perciformes	Actinopterygii	Chordata	Animalia	F
+Oreochromis	Oreochromis	Cichlidae	Perciformes	Actinopterygii	Chordata	Animalia	F
+Eleotris	Eleotris	Eleotridae	Perciformes	Actinopterygii	Chordata	Animalia	F
+Ditrema	Ditrema	Embiotocidae	Perciformes	Actinopterygii	Chordata	Animalia	F
+Acanthogobius	Acanthogobius	Gobiidae	Perciformes	Actinopterygii	Chordata	Animalia	F
+Acentrogobius	Acentrogobius	Gobiidae	Perciformes	Actinopterygii	Chordata	Animalia	F
+Boleophthalmus	Boleophthalmus	Gobiidae	Perciformes	Actinopterygii	Chordata	Animalia	F
+Ctenotrypauchen	Ctenotrypauchen	Gobiidae	Perciformes	Actinopterygii	Chordata	Animalia	F
+Favonigobius	Favonigobius	Gobiidae	Perciformes	Actinopterygii	Chordata	Animalia	F
+Gymnogobius	Gymnogobius	Gobiidae	Perciformes	Actinopterygii	Chordata	Animalia	F
+Luciogobius	Luciogobius	Gobiidae	Perciformes	Actinopterygii	Chordata	Animalia	F
+Mugilogobius	Mugilogobius	Gobiidae	Perciformes	Actinopterygii	Chordata	Animalia	F
+Periophthalmus	Periophthalmus	Gobiidae	Perciformes	Actinopterygii	Chordata	Animalia	F
+Rhinogobius	Rhinogobius	Gobiidae	Perciformes	Actinopterygii	Chordata	Animalia	F
+Synechogobius	Synechogobius	Gobiidae	Perciformes	Actinopterygii	Chordata	Animalia	F
+Tridentiger	Tridentiger	Gobiidae	Perciformes	Actinopterygii	Chordata	Animalia	F
+Lateolabrax	Lateolabrax	Lateolabracidae	Perciformes	Actinopterygii	Chordata	Animalia	F
+Nuchequula	Nuchequula	Leiognathidae	Perciformes	Actinopterygii	Chordata	Animalia	F
+Micropercops	Micropercops	Odontobutidae	Perciformes	Actinopterygii	Chordata	Animalia	F
+Odontobutis	Odontobutis	Odontobutidae	Perciformes	Actinopterygii	Chordata	Animalia	F
+Macropodus	Macropodus	Osphronemidae	Perciformes	Actinopterygii	Chordata	Animalia	F
+Coreoperca	Coreoperca	Percichthyidae	Perciformes	Actinopterygii	Chordata	Animalia	F
+Siniperca	Siniperca	Percichthyidae	Perciformes	Actinopterygii	Chordata	Animalia	F
+Sillago	Sillago	Sillaginidae	Perciformes	Actinopterygii	Chordata	Animalia	F
+Acanthopagrus	Acanthopagrus	Sparidae	Perciformes	Actinopterygii	Chordata	Animalia	F
+Rhynchopelates	Rhynchopelates	Terapontidae	Perciformes	Actinopterygii	Chordata	Animalia	F
+Terapon	Terapon	Terapontidae	Perciformes	Actinopterygii	Chordata	Animalia	F
+Zoarchias	Zoarchias	Zoarcidae	Perciformes	Actinopterygii	Chordata	Animalia	F
+Lethenteron	Lethenteron	Petromyzontidae	Pertromyzontiformes	Actinopterygii	Chordata	Animalia	F
+Paralichthys	Paralichthys	Paralichthyidae	Pleuronectiformes	Actinopterygii	Chordata	Animalia	F
+Platichthys	Platichthys	Pleuronectidae	Pleuronectiformes	Actinopterygii	Chordata	Animalia	F
+Pleuronectes	Pleuronectes	Pleuronectidae	Pleuronectiformes	Actinopterygii	Chordata	Animalia	F
+Brachymystax	Brachymystax	Salmonidae	Salmoniformes	Actinopterygii	Chordata	Animalia	F
+Oncorhynchus	Oncorhynchus	Salmonidae	Salmoniformes	Actinopterygii	Chordata	Animalia	F
+Cottus	Cottus	Cottidae	Scorpaeniformes	Actinopterygii	Chordata	Animalia	F
+Furcina	Furcina	Cottidae	Scorpaeniformes	Actinopterygii	Chordata	Animalia	F
+Myoxocephalus	Myoxocephalus	Cottidae	Scorpaeniformes	Actinopterygii	Chordata	Animalia	F
+Trachidermus	Trachidermus	Cottidae	Scorpaeniformes	Actinopterygii	Chordata	Animalia	F
+Hexagrammos	Hexagrammos	Hexagrammidae	Scorpaeniformes	Actinopterygii	Chordata	Animalia	F
+Platycephalus	Platycephalus	Platycephalidae	Scorpaeniformes	Actinopterygii	Chordata	Animalia	F
+Hypodytes	Hypodytes	Tetrarogidae	Scorpaeniformes	Actinopterygii	Chordata	Animalia	F
+Liobagrus	Liobagrus	Amblycipitidae	Siluriformes	Actinopterygii	Chordata	Animalia	F
+Leiocassis	Leiocassis	Bagridae	Siluriformes	Actinopterygii	Chordata	Animalia	F
+Pseudobagrus	Pseudobagrus	Bagridae	Siluriformes	Actinopterygii	Chordata	Animalia	F
+Tachysurus	Tachysurus	Bagridae	Siluriformes	Actinopterygii	Chordata	Animalia	F
+Silurus	Silurus	Siluridae	Siluriformes	Actinopterygii	Chordata	Animalia	F
+Monopterus	Monopterus	Synbranchidae	Synbranchiformes	Actinopterygii	Chordata	Animalia	F
+Takifugu	Takifugu	Tetraodontidae	Tetraodontiformes	Actinopterygii	Chordata	Animalia	F
+Erpobdella	Erpobdella	Erpobdellidae	Arhynchobdellida	Clitellata	Annelida	Animalia	M
+Eisenia	Eisenia	Lumbricidae	Crassiclitellata	Clitellata	Annelida	Animalia	M
+Barbronia	Barbronia	Salifidae	Euhirudinea	Clitellata	Annelida	Animalia	M
+Lumbriculus	Lumbriculus	Lumbriculidae	Lumbriculida	Clitellata	Annelida	Animalia	M
+Alboglossiphonia	Alboglossiphonia	Glossiphoniidae	Rhynchobdellida	Clitellata	Annelida	Animalia	M
+Glossiphonia	Glossiphonia	Glossiphoniidae	Rhynchobdellida	Clitellata	Annelida	Animalia	M
+Helobdella	Helobdella	Glossiphoniidae	Rhynchobdellida	Clitellata	Annelida	Animalia	M
+Torix	Torix	Glossiphoniidae	Rhynchobdellida	Clitellata	Annelida	Animalia	M
+Glossiphoniidae		Glossiphoniidae	Rhynchobdellida	Clitellata	Annelida	Animalia	M
+Branchiura	Branchiura	Naididae	Tubificida	Clitellata	Annelida	Animalia	M
+Chaetogaster	Chaetogaster	Naididae	Tubificida	Clitellata	Annelida	Animalia	M
+Limnodrilus	Limnodrilus	Naididae	Tubificida	Clitellata	Annelida	Animalia	M
+Hediste	Hediste	Nereididae	Phyllodocida	Polychaeta	Annelida	Animalia	M
+Neanthes	Neanthes	Nereididae	Phyllodocida	Polychaeta	Annelida	Animalia	M
+Perinereis	Perinereis	Nereididae	Phyllodocida	Polychaeta	Annelida	Animalia	M
+Tylorrhynchus	Tylorrhynchus	Nereididae	Phyllodocida	Polychaeta	Annelida	Animalia	M
+Nereididae		Nereididae	Phyllodocida	Polychaeta	Annelida	Animalia	M
+Serpula	Serpula	Serpulidae	Sabellida	Polychaeta	Annelida	Animalia	M
+Polychaeta	Polychaeta			Polychaeta	Annelida	Animalia	M
+Argyroneta	Argyroneta	Dictynidae	Araneae	Arachnida	Arthropoda	Animalia	M
+Branchinella	Branchinella	Thamnocephalidae	Anostraca	Branchiopoda	Arthropoda	Animalia	M
+Triops	Triops	Triopsidae	Notostraca	Branchiopoda	Arthropoda	Animalia	M
+Collembola				Collembola	Arthropoda	Animalia	M
+Chrysomelidae		Chrysomelidae	Coleoptera	Insecta	Arthropoda	Animalia	M
+Helichus	Helichus	Dryopidae	Coleoptera	Insecta	Arthropoda	Animalia	M
+Dytiscidae		Dytiscidae	Coleoptera	Insecta	Arthropoda	Animalia	M
+Heterlimnius	Heterlimnius	Elmidae	Coleoptera	Insecta	Arthropoda	Animalia	M
+Leptelmis	Leptelmis	Elmidae	Coleoptera	Insecta	Arthropoda	Animalia	M
+Optioservus	Optioservus	Elmidae	Coleoptera	Insecta	Arthropoda	Animalia	M
+Stenelmis	Stenelmis	Elmidae	Coleoptera	Insecta	Arthropoda	Animalia	M
+Zaitzevia	Zaitzevia	Elmidae	Coleoptera	Insecta	Arthropoda	Animalia	M
+Elmidae		Elmidae	Coleoptera	Insecta	Arthropoda	Animalia	M
+Dineutus	Dineutus	Gyrinidae	Coleoptera	Insecta	Arthropoda	Animalia	M
+Gyrinus	Gyrinus	Gyrinidae	Coleoptera	Insecta	Arthropoda	Animalia	M
+Orectochilus	Orectochilus	Gyrinidae	Coleoptera	Insecta	Arthropoda	Animalia	M
+Haliplus	Haliplus	Haliplidae	Coleoptera	Insecta	Arthropoda	Animalia	M
+Peltodytes	Peltodytes	Haliplidae	Coleoptera	Insecta	Arthropoda	Animalia	M
+Helophorus	Helophorus	Helophoridae	Coleoptera	Insecta	Arthropoda	Animalia	M
+Augyles	Augyles	Heteroceridae	Coleoptera	Insecta	Arthropoda	Animalia	M
+Hydraenidae		Hydraenidae	Coleoptera	Insecta	Arthropoda	Animalia	M
+Hydrophilidae		Hydrophilidae	Coleoptera	Insecta	Arthropoda	Animalia	M
+Luciola	Luciola	Lampyridae	Coleoptera	Insecta	Arthropoda	Animalia	M
+Noteridae		Noteridae	Coleoptera	Insecta	Arthropoda	Animalia	M
+Psephenidae		Psephenidae	Coleoptera	Insecta	Arthropoda	Animalia	M
+Helodes	Helodes	Scirtidae	Coleoptera	Insecta	Arthropoda	Animalia	M
+Scirtes	Scirtes	Scirtidae	Coleoptera	Insecta	Arthropoda	Animalia	M
+Scirtidae		Scirtidae	Coleoptera	Insecta	Arthropoda	Animalia	M
+Athericidae		Athericidae	Diptera	Insecta	Arthropoda	Animalia	M
+Bibiocephala	Bibiocephala	Blephariceridae	Diptera	Insecta	Arthropoda	Animalia	M
+Philorus	Philorus	Blephariceridae	Diptera	Insecta	Arthropoda	Animalia	M
+Ceratopogonidae		Ceratopogonidae	Diptera	Insecta	Arthropoda	Animalia	M
+Chaoborus	Chaoborus	Chaoboridae	Diptera	Insecta	Arthropoda	Animalia	M
+Chironomidae		Chironomidae	Diptera	Insecta	Arthropoda	Animalia	M
+Culicidae		Culicidae	Diptera	Insecta	Arthropoda	Animalia	M
+Deuterophlebia	Deuterophlebia	Deuterophlebiidae	Diptera	Insecta	Arthropoda	Animalia	M
+Dixidae		Dixidae	Diptera	Insecta	Arthropoda	Animalia	M
+Dolichopodidae		Dolichopodidae	Diptera	Insecta	Arthropoda	Animalia	M
+Empididae		Empididae	Diptera	Insecta	Arthropoda	Animalia	M
+Ephydridae		Ephydridae	Diptera	Insecta	Arthropoda	Animalia	M
+Antocha	Antocha	Limoniidae	Diptera	Insecta	Arthropoda	Animalia	M
+Dicranomyia	Dicranomyia	Limoniidae	Diptera	Insecta	Arthropoda	Animalia	M
+Hexatoma	Hexatoma	Limoniidae	Diptera	Insecta	Arthropoda	Animalia	M
+Ormosia	Ormosia	Limoniidae	Diptera	Insecta	Arthropoda	Animalia	M
+Muscidae		Muscidae	Diptera	Insecta	Arthropoda	Animalia	M
+Dicranota	Dicranota	Pediciidae	Diptera	Insecta	Arthropoda	Animalia	M
+Pedicia	Pedicia	Pediciidae	Diptera	Insecta	Arthropoda	Animalia	M
+Pericoma	Pericoma	Psychodidae	Diptera	Insecta	Arthropoda	Animalia	M
+Psychoda	Psychoda	Psychodidae	Diptera	Insecta	Arthropoda	Animalia	M
+Telmatoscopus	Telmatoscopus	Psychodidae	Diptera	Insecta	Arthropoda	Animalia	M
+Psychodidae		Psychodidae	Diptera	Insecta	Arthropoda	Animalia	M
+Sepedon	Sepedon	Sciomyzidae	Diptera	Insecta	Arthropoda	Animalia	M
+Simulium	Simulium	Simuliidae	Diptera	Insecta	Arthropoda	Animalia	M
+Odontomyia	Odontomyia	Stratiomyidae	Diptera	Insecta	Arthropoda	Animalia	M
+Stratiomyia	Stratiomyia	Stratiomyidae	Diptera	Insecta	Arthropoda	Animalia	M
+Stratiomyidae		Stratiomyidae	Diptera	Insecta	Arthropoda	Animalia	M
+Eristalis	Eristalis	Syrphidae	Diptera	Insecta	Arthropoda	Animalia	M
+Syrphidae		Syrphidae	Diptera	Insecta	Arthropoda	Animalia	M
+Tabanidae		Tabanidae	Diptera	Insecta	Arthropoda	Animalia	M
+Nephrotoma	Nephrotoma	Tipulidae	Diptera	Insecta	Arthropoda	Animalia	M
+Tipula	Tipula	Tipulidae	Diptera	Insecta	Arthropoda	Animalia	M
+Tipulidae		Tipulidae	Diptera	Insecta	Arthropoda	Animalia	M
+Ameletus	Ameletus	Ameletidae	Ephemeroptera	Insecta	Arthropoda	Animalia	M
+Baetidae		Baetidae	Ephemeroptera	Insecta	Arthropoda	Animalia	M
+Caenidae		Caenidae	Ephemeroptera	Insecta	Arthropoda	Animalia	M
+Ephemerellidae		Ephemerellidae	Ephemeroptera	Insecta	Arthropoda	Animalia	M
+Ephemera	Ephemera	Ephemeridae	Ephemeroptera	Insecta	Arthropoda	Animalia	M
+Bleptus	Bleptus	Heptageniidae	Ephemeroptera	Insecta	Arthropoda	Animalia	M
+Cinygmula	Cinygmula	Heptageniidae	Ephemeroptera	Insecta	Arthropoda	Animalia	M
+Ecdyonurus	Ecdyonurus	Heptageniidae	Ephemeroptera	Insecta	Arthropoda	Animalia	M
+Epeorus	Epeorus	Heptageniidae	Ephemeroptera	Insecta	Arthropoda	Animalia	M
+Heptagenia	Heptagenia	Heptageniidae	Ephemeroptera	Insecta	Arthropoda	Animalia	M
+Rhithrogena	Rhithrogena	Heptageniidae	Ephemeroptera	Insecta	Arthropoda	Animalia	M
+Isonychia	Isonychia	Isonychiidae	Ephemeroptera	Insecta	Arthropoda	Animalia	M
+Leptophlebiidae		Leptophlebiidae	Ephemeroptera	Insecta	Arthropoda	Animalia	M
+Metretopus	Metretopus	Metretopodidae	Ephemeroptera	Insecta	Arthropoda	Animalia	M
+Potamanthellus	Potamanthellus	Neoephemeridae	Ephemeroptera	Insecta	Arthropoda	Animalia	M
+Ephoron	Ephoron	Polymitarcyidae	Ephemeroptera	Insecta	Arthropoda	Animalia	M
+Potamanthus	Potamanthus	Potamanthidae	Ephemeroptera	Insecta	Arthropoda	Animalia	M
+Rhoenanthus	Rhoenanthus	Potamanthidae	Ephemeroptera	Insecta	Arthropoda	Animalia	M
+Potamanthidae		Potamanthidae	Ephemeroptera	Insecta	Arthropoda	Animalia	M
+Siphlonurus	Siphlonurus	Siphlonuridae	Ephemeroptera	Insecta	Arthropoda	Animalia	M
+Aphelocheirus	Aphelocheirus	Aphelocheiridae	Hemiptera	Insecta	Arthropoda	Animalia	M
+Appasus	Appasus	Belostomatidae	Hemiptera	Insecta	Arthropoda	Animalia	M
+Diplonychus	Diplonychus	Belostomatidae	Hemiptera	Insecta	Arthropoda	Animalia	M
+Lethocerus	Lethocerus	Belostomatidae	Hemiptera	Insecta	Arthropoda	Animalia	M
+Muljarus	Muljarus	Belostomatidae	Hemiptera	Insecta	Arthropoda	Animalia	M
+Cymatia	Cymatia	Corixidae	Hemiptera	Insecta	Arthropoda	Animalia	M
+Hesperocorixa	Hesperocorixa	Corixidae	Hemiptera	Insecta	Arthropoda	Animalia	M
+Sigara	Sigara	Corixidae	Hemiptera	Insecta	Arthropoda	Animalia	M
+Corixidae		Corixidae	Hemiptera	Insecta	Arthropoda	Animalia	M
+Gerridae		Gerridae	Hemiptera	Insecta	Arthropoda	Animalia	M
+Hebrus	Hebrus	Hebridae	Hemiptera	Insecta	Arthropoda	Animalia	M
+Hydrometra	Hydrometra	Hydrometridae	Hemiptera	Insecta	Arthropoda	Animalia	M
+Mesovelia	Mesovelia	Mesoveliidae	Hemiptera	Insecta	Arthropoda	Animalia	M
+Micronecta	Micronecta	Micronectidae	Hemiptera	Insecta	Arthropoda	Animalia	M
+Ilyocoris	Ilyocoris	Naucoridae	Hemiptera	Insecta	Arthropoda	Animalia	M
+Laccotrephes	Laccotrephes	Nepidae	Hemiptera	Insecta	Arthropoda	Animalia	M
+Nepa	Nepa	Nepidae	Hemiptera	Insecta	Arthropoda	Animalia	M
+Ranatra	Ranatra	Nepidae	Hemiptera	Insecta	Arthropoda	Animalia	M
+Notonectidae		Notonectidae	Hemiptera	Insecta	Arthropoda	Animalia	M
+Ochterus	Ochterus	Ochteridae	Hemiptera	Insecta	Arthropoda	Animalia	M
+Paraplea	Paraplea	Pleidae	Hemiptera	Insecta	Arthropoda	Animalia	M
+Saldidae		Saldidae	Hemiptera	Insecta	Arthropoda	Animalia	M
+Veliidae		Veliidae	Hemiptera	Insecta	Arthropoda	Animalia	M
+Agriotypus	Agriotypus	Ichneumonidae	Hymenoptera	Insecta	Arthropoda	Animalia	M
+Crambidae		Crambidae	Lepidoptera	Insecta	Arthropoda	Animalia	M
+Pyralidae		Pyralidae	Lepidoptera	Insecta	Arthropoda	Animalia	M
+Corydalidae		Corydalidae	Megaloptera	Insecta	Arthropoda	Animalia	M
+Sialis	Sialis	Sialidae	Megaloptera	Insecta	Arthropoda	Animalia	M
+Sisyridae		Sisyridae	Neuroptera	Insecta	Arthropoda	Animalia	M
+Aeshnidae		Aeshnidae	Odonata	Insecta	Arthropoda	Animalia	M
+Calopterygidae		Calopterygidae	Odonata	Insecta	Arthropoda	Animalia	M
+Coenagrionidae		Coenagrionidae	Odonata	Insecta	Arthropoda	Animalia	M
+Anotogaster	Anotogaster	Cordulegastridae	Odonata	Insecta	Arthropoda	Animalia	M
+Corduliidae		Corduliidae	Odonata	Insecta	Arthropoda	Animalia	M
+Gomphidae		Gomphidae	Odonata	Insecta	Arthropoda	Animalia	M
+Lestidae		Lestidae	Odonata	Insecta	Arthropoda	Animalia	M
+Libellulidae		Libellulidae	Odonata	Insecta	Arthropoda	Animalia	M
+Platycnemididae		Platycnemididae	Odonata	Insecta	Arthropoda	Animalia	M
+Capniidae		Capniidae	Plecoptera	Insecta	Arthropoda	Animalia	M
+Alloperla	Alloperla	Chloroperlidae	Plecoptera	Insecta	Arthropoda	Animalia	M
+Sweltsa	Sweltsa	Chloroperlidae	Plecoptera	Insecta	Arthropoda	Animalia	M
+Chloroperlidae		Chloroperlidae	Plecoptera	Insecta	Arthropoda	Animalia	M
+Leuctra	Leuctra	Leuctridae	Plecoptera	Insecta	Arthropoda	Animalia	M
+Megaleuctra	Megaleuctra	Leuctridae	Plecoptera	Insecta	Arthropoda	Animalia	M
+Paraleuctra	Paraleuctra	Leuctridae	Plecoptera	Insecta	Arthropoda	Animalia	M
+Perlomyia	Perlomyia	Leuctridae	Plecoptera	Insecta	Arthropoda	Animalia	M
+Rhopalopsole	Rhopalopsole	Leuctridae	Plecoptera	Insecta	Arthropoda	Animalia	M
+Amphinemura	Amphinemura	Nemouridae	Plecoptera	Insecta	Arthropoda	Animalia	M
+Nemoura	Nemoura	Nemouridae	Plecoptera	Insecta	Arthropoda	Animalia	M
+Protonemura	Protonemura	Nemouridae	Plecoptera	Insecta	Arthropoda	Animalia	M
+Yoraperla	Yoraperla	Peltoperlidae	Plecoptera	Insecta	Arthropoda	Animalia	M
+Kamimuria	Kamimuria	Perlidae	Plecoptera	Insecta	Arthropoda	Animalia	M
+Kiotina	Kiotina	Perlidae	Plecoptera	Insecta	Arthropoda	Animalia	M
+Neoperla	Neoperla	Perlidae	Plecoptera	Insecta	Arthropoda	Animalia	M
+Oyamia	Oyamia	Perlidae	Plecoptera	Insecta	Arthropoda	Animalia	M
+Paragnetina	Paragnetina	Perlidae	Plecoptera	Insecta	Arthropoda	Animalia	M
+Arcynopteryx	Arcynopteryx	Perlodidae	Plecoptera	Insecta	Arthropoda	Animalia	M
+Isoperla	Isoperla	Perlodidae	Plecoptera	Insecta	Arthropoda	Animalia	M
+Megarcys	Megarcys	Perlodidae	Plecoptera	Insecta	Arthropoda	Animalia	M
+Perlodes	Perlodes	Perlodidae	Plecoptera	Insecta	Arthropoda	Animalia	M
+Stavsolus	Stavsolus	Perlodidae	Plecoptera	Insecta	Arthropoda	Animalia	M
+Pteronarcys	Pteronarcys	Pteronarcyidae	Plecoptera	Insecta	Arthropoda	Animalia	M
+Scopura	Scopura	Scopuridae	Plecoptera	Insecta	Arthropoda	Animalia	M
+Taenionema	Taenionema	Taeniopterygidae	Plecoptera	Insecta	Arthropoda	Animalia	M
+Apatania	Apatania	Apataniidae	Trichoptera	Insecta	Arthropoda	Animalia	M
+Micrasema	Micrasema	Brachycentridae	Trichoptera	Insecta	Arthropoda	Animalia	M
+Anisocentropus	Anisocentropus	Calamoceratidae	Trichoptera	Insecta	Arthropoda	Animalia	M
+Ganonema	Ganonema	Calamoceratidae	Trichoptera	Insecta	Arthropoda	Animalia	M
+Ecnomus	Ecnomus	Ecnomidae	Trichoptera	Insecta	Arthropoda	Animalia	M
+Agapetus	Agapetus	Glossosomatidae	Trichoptera	Insecta	Arthropoda	Animalia	M
+Glossosoma	Glossosoma	Glossosomatidae	Trichoptera	Insecta	Arthropoda	Animalia	M
+Goera	Goera	Goeridae	Trichoptera	Insecta	Arthropoda	Animalia	M
+Helicopsyche	Helicopsyche	Helicopsychidae	Trichoptera	Insecta	Arthropoda	Animalia	M
+Apsilochorema	Apsilochorema	Hydrobiosidae	Trichoptera	Insecta	Arthropoda	Animalia	M
+Aethaloptera	Aethaloptera	Hydropsychidae	Trichoptera	Insecta	Arthropoda	Animalia	M
+Arctopsyche	Arctopsyche	Hydropsychidae	Trichoptera	Insecta	Arthropoda	Animalia	M
+Cheumatopsyche	Cheumatopsyche	Hydropsychidae	Trichoptera	Insecta	Arthropoda	Animalia	M
+Diplectrona	Diplectrona	Hydropsychidae	Trichoptera	Insecta	Arthropoda	Animalia	M
+Hydropsyche	Hydropsyche	Hydropsychidae	Trichoptera	Insecta	Arthropoda	Animalia	M
+Macrostemum	Macrostemum	Hydropsychidae	Trichoptera	Insecta	Arthropoda	Animalia	M
+Potamyia	Potamyia	Hydropsychidae	Trichoptera	Insecta	Arthropoda	Animalia	M
+Hydroptila	Hydroptila	Hydroptilidae	Trichoptera	Insecta	Arthropoda	Animalia	M
+Orthotrichia	Orthotrichia	Hydroptilidae	Trichoptera	Insecta	Arthropoda	Animalia	M
+Oxyethira	Oxyethira	Hydroptilidae	Trichoptera	Insecta	Arthropoda	Animalia	M
+Stactobia	Stactobia	Hydroptilidae	Trichoptera	Insecta	Arthropoda	Animalia	M
+Hydroptilidae		Hydroptilidae	Trichoptera	Insecta	Arthropoda	Animalia	M
+Lepidostoma	Lepidostoma	Lepidostomatidae	Trichoptera	Insecta	Arthropoda	Animalia	M
+Lepidostomatidae		Lepidostomatidae	Trichoptera	Insecta	Arthropoda	Animalia	M
+Ceraclea	Ceraclea	Leptoceridae	Trichoptera	Insecta	Arthropoda	Animalia	M
+Mystacides	Mystacides	Leptoceridae	Trichoptera	Insecta	Arthropoda	Animalia	M
+Oecetis	Oecetis	Leptoceridae	Trichoptera	Insecta	Arthropoda	Animalia	M
+Triaenodes	Triaenodes	Leptoceridae	Trichoptera	Insecta	Arthropoda	Animalia	M
+Leptoceridae		Leptoceridae	Trichoptera	Insecta	Arthropoda	Animalia	M
+Asynarchus	Asynarchus	Limnephilidae	Trichoptera	Insecta	Arthropoda	Animalia	M
+Hydatophylax	Hydatophylax	Limnephilidae	Trichoptera	Insecta	Arthropoda	Animalia	M
+Limnephilus	Limnephilus	Limnephilidae	Trichoptera	Insecta	Arthropoda	Animalia	M
+Nemotaulius	Nemotaulius	Limnephilidae	Trichoptera	Insecta	Arthropoda	Animalia	M
+Nothopsyche	Nothopsyche	Limnephilidae	Trichoptera	Insecta	Arthropoda	Animalia	M
+Limnephilidae		Limnephilidae	Trichoptera	Insecta	Arthropoda	Animalia	M
+Molanna	Molanna	Molannidae	Trichoptera	Insecta	Arthropoda	Animalia	M
+Psilotreta	Psilotreta	Odontoceridae	Trichoptera	Insecta	Arthropoda	Animalia	M
+Dolophilodes	Dolophilodes	Philopotamidae	Trichoptera	Insecta	Arthropoda	Animalia	M
+Wormaldia	Wormaldia	Philopotamidae	Trichoptera	Insecta	Arthropoda	Animalia	M
+Agrypnia	Agrypnia	Phryganeidae	Trichoptera	Insecta	Arthropoda	Animalia	M
+Semblis	Semblis	Phryganeidae	Trichoptera	Insecta	Arthropoda	Animalia	M
+Phryganopsyche	Phryganopsyche	Phryganopsychidae	Trichoptera	Insecta	Arthropoda	Animalia	M
+Nyctiophylax	Nyctiophylax	Polycentropodidae	Trichoptera	Insecta	Arthropoda	Animalia	M
+Plectrocnemia	Plectrocnemia	Polycentropodidae	Trichoptera	Insecta	Arthropoda	Animalia	M
+Psychomyia	Psychomyia	Psychomyiidae	Trichoptera	Insecta	Arthropoda	Animalia	M
+Rhyacophila	Rhyacophila	Rhyacophilidae	Trichoptera	Insecta	Arthropoda	Animalia	M
+Rhyacophilidae		Rhyacophilidae	Trichoptera	Insecta	Arthropoda	Animalia	M
+Gumaga	Gumaga	Sericostomatidae	Trichoptera	Insecta	Arthropoda	Animalia	M
+Stenopsyche	Stenopsyche	Stenopsychidae	Trichoptera	Insecta	Arthropoda	Animalia	M
+Stenopsychidae		Stenopsychidae	Trichoptera	Insecta	Arthropoda	Animalia	M
+Neophylax	Neophylax	Uenoidae	Trichoptera	Insecta	Arthropoda	Animalia	M
+Jesogammarus	Jesogammarus	Anisogammaridae	Amphipoda	Malacostraca	Arthropoda	Animalia	M
+Anisogammaridae		Anisogammaridae	Amphipoda	Malacostraca	Arthropoda	Animalia	M
+Corophiidae		Anisogammaridae	Amphipoda	Malacostraca	Arthropoda	Animalia	M
+Monocorophium	Monocorophium	Corophiidae	Amphipoda	Malacostraca	Arthropoda	Animalia	M
+Gammarus	Gammarus	Gammaridae	Amphipoda	Malacostraca	Arthropoda	Animalia	M
+Gammaridae		Gammaridae	Amphipoda	Malacostraca	Arthropoda	Animalia	M
+Elasmopus	Elasmopus	Maeridae	Amphipoda	Malacostraca	Arthropoda	Animalia	M
+Pseudocrangonyx	Pseudocrangonyx	Pseudocrangonyctidae	Amphipoda	Malacostraca	Arthropoda	Animalia	M
+Caridina	Caridina	Atyidae	Decapoda	Malacostraca	Arthropoda	Animalia	M
+Neocaridina	Neocaridina	Atyidae	Decapoda	Malacostraca	Arthropoda	Animalia	M
+Paratya	Paratya	Atyidae	Decapoda	Malacostraca	Arthropoda	Animalia	M
+Cambaroides	Cambaroides	Cambaroididae	Decapoda	Malacostraca	Arthropoda	Animalia	M
+Cleistostoma	Cleistostoma	Camptandriidae	Decapoda	Malacostraca	Arthropoda	Animalia	M
+Ilyoplax	Ilyoplax	Dotillidae	Decapoda	Malacostraca	Arthropoda	Animalia	M
+Grapsidae		Grapsidae	Decapoda	Malacostraca	Arthropoda	Animalia	M
+Ocypodidae		Ocypodidae	Decapoda	Malacostraca	Arthropoda	Animalia	M
+Palaemonidae		Palaemonidae	Decapoda	Malacostraca	Arthropoda	Animalia	M
+Acetes	Acetes	Sergestidae	Decapoda	Malacostraca	Arthropoda	Animalia	M
+Chiromantes	Chiromantes	Sesarmidae	Decapoda	Malacostraca	Arthropoda	Animalia	M
+Sesarmops	Sesarmops	Sesarmidae	Decapoda	Malacostraca	Arthropoda	Animalia	M
+Eriocheir	Eriocheir	Varunidae	Decapoda	Malacostraca	Arthropoda	Animalia	M
+Helice	Helice	Varunidae	Decapoda	Malacostraca	Arthropoda	Animalia	M
+Hemigrapsus	Hemigrapsus	Varunidae	Decapoda	Malacostraca	Arthropoda	Animalia	M
+Cyathura	Cyathura	Anthuridae	Isopoda	Malacostraca	Arthropoda	Animalia	M
+Asellus	Asellus	Asellidae	Isopoda	Malacostraca	Arthropoda	Animalia	M
+Gnorimosphaeroma	Gnorimosphaeroma	Sphaeromatidae	Isopoda	Malacostraca	Arthropoda	Animalia	M
+Mysidae		Mysidae	Mysida	Malacostraca	Arthropoda	Animalia	M
+Balanidae		Balanidae	Sessilia	Maxillopoda	Arthropoda	Animalia	M
+Potamocorbula	Potamocorbula	Corbulidae	Myida	Bivalvia	Mollusca	Animalia	M
+Arcuatula	Arcuatula	Mytilidae	Mytilida	Bivalvia	Mollusca	Animalia	M
+Limnoperna	Limnoperna	Mytilidae	Mytilida	Bivalvia	Mollusca	Animalia	M
+Mytilus	Mytilus	Mytilidae	Mytilida	Bivalvia	Mollusca	Animalia	M
+Sphaeriidae		Sphaeriidae	Sphaeriida	Bivalvia	Mollusca	Animalia	M
+Unionidae		Unionidae	Unionida	Bivalvia	Mollusca	Animalia	M
+Ruditapes	Ruditapes	Veneridae	Venerida	Bivalvia	Mollusca	Animalia	M
+Venerida			Venerida	Bivalvia	Mollusca	Animalia	M
+Cochlodesma	Cochlodesma	Periplomatidae		Bivalvia	Mollusca	Animalia	M
+Pomacea	Pomacea	Ampullariidae	Architaenioglossa	Gastropoda	Mollusca	Animalia	M
+Cipangopaludina	Cipangopaludina	Viviparidae	Architaenioglossa	Gastropoda	Mollusca	Animalia	M
+Sinotaia	Sinotaia	Viviparidae	Architaenioglossa	Gastropoda	Mollusca	Animalia	M
+Clithon	Clithon	Neritidae	Cycloneritida	Gastropoda	Mollusca	Animalia	M
+Ellobium	Ellobium	Ellobiidae	Ellobiida	Gastropoda	Mollusca	Animalia	M
+Littorinimorpha			Littorinimorpha	Gastropoda	Mollusca	Animalia	M
+Mitrella	Mitrella	Columbellidae	Neogastropoda	Gastropoda	Mollusca	Animalia	M
+Nassarius	Nassarius	Nassariidae	Neogastropoda	Gastropoda	Mollusca	Animalia	M
+Succineidae		Succineidae	Stylommatophora	Gastropoda	Mollusca	Animalia	M
+Chlorostoma	Chlorostoma	Tegulidae	Trochida	Gastropoda	Mollusca	Animalia	M
+Monodonta	Monodonta	Trochidae	Trochida	Gastropoda	Mollusca	Animalia	M
+Indoplanorbis	Indoplanorbis	Bulinidae		Gastropoda	Mollusca	Animalia	M
+Bithynella	Bithynella	Bythinellidae		Gastropoda	Mollusca	Animalia	M
+Galba	Galba	Lymnaeidae		Gastropoda	Mollusca	Animalia	M
+Lymnaea	Lymnaea	Lymnaeidae		Gastropoda	Mollusca	Animalia	M
+Radix	Radix	Lymnaeidae		Gastropoda	Mollusca	Animalia	M
+Lymnaeidae		Lymnaeidae		Gastropoda	Mollusca	Animalia	M
+Physa	Physa	Physidae		Gastropoda	Mollusca	Animalia	M
+Gyraulus	Gyraulus	Planorbidae		Gastropoda	Mollusca	Animalia	M
+Hippeutis	Hippeutis	Planorbidae		Gastropoda	Mollusca	Animalia	M
+Laevapex	Laevapex	Planorbidae		Gastropoda	Mollusca	Animalia	M
+Polypylis	Polypylis	Planorbidae		Gastropoda	Mollusca	Animalia	M
+Koreanomelania	Koreanomelania	Semisulcospiridae		Gastropoda	Mollusca	Animalia	M
+Koreoleptoxis	Koreoleptoxis	Semisulcospiridae		Gastropoda	Mollusca	Animalia	M
+Semisulcospira	Semisulcospira	Semisulcospiridae		Gastropoda	Mollusca	Animalia	M
+Dugesia	Dugesia	Dugesiidae	Tricladida		Platyhelminthes	Animalia	M
+Sphalloplana	Sphalloplana	Kenkiidae	Tricladida		Platyhelminthes	Animalia	M
+Phagocata	Phagocata	Planariidae	Tricladida		Platyhelminthes	Animalia	M
+Macrophyte						Plantae	Mac
+Cyanobacteriales			Cyanobacteriales	Cyanobacteriia	Cyanobacteria	Bacteria	P
+Leptolyngbyales			Leptolyngbyales	Cyanobacteriia	Cyanobacteria	Bacteria	P
+Pseudanabaenales			Pseudanabaenales	Cyanobacteriia	Cyanobacteria	Bacteria	P
+Synechococcales			Synechococcales	Cyanobacteriia	Cyanobacteria	Bacteria	P
+Bigyra					Bigyra	Chromista	P
+Cryptomonadales			Cryptomonadales	Cryptophyceae	Cryptophyta	Chromista	P
+Pyrenomonadales			Pyrenomonadales	Cryptophyceae	Cryptophyta	Chromista	P
+Gymnodiniales			Gymnodiniales	Dinophyceae	Myzozoa	Chromista	P
+Peridiniales			Peridiniales	Dinophyceae	Myzozoa	Chromista	P
+Phytodiniales			Phytodiniales	Dinophyceae	Myzozoa	Chromista	P
+Achnanthales			Achnanthales	Bacillariophyceae	Ochrophyta	Chromista	P
+Aulacoseirales			Aulacoseirales	Bacillariophyceae	Ochrophyta	Chromista	P
+Bacillariales			Bacillariales	Bacillariophyceae	Ochrophyta	Chromista	P
+Biddulphiales			Biddulphiales	Bacillariophyceae	Ochrophyta	Chromista	P
+Chaetocerotales			Chaetocerotales	Bacillariophyceae	Ochrophyta	Chromista	P
+Coscinodiscales			Coscinodiscales	Bacillariophyceae	Ochrophyta	Chromista	P
+Cymbellales			Cymbellales	Bacillariophyceae	Ochrophyta	Chromista	P
+Eunotiales			Eunotiales	Bacillariophyceae	Ochrophyta	Chromista	P
+Fragilariales			Fragilariales	Bacillariophyceae	Ochrophyta	Chromista	P
+Lyrellales			Lyrellales	Bacillariophyceae	Ochrophyta	Chromista	P
+Melosirales			Melosirales	Bacillariophyceae	Ochrophyta	Chromista	P
+Naviculales			Naviculales	Bacillariophyceae	Ochrophyta	Chromista	P
+Rhaponeidales			Rhaponeidales	Bacillariophyceae	Ochrophyta	Chromista	P
+Rhizosoleniales			Rhizosoleniales	Bacillariophyceae	Ochrophyta	Chromista	P
+Rhopalodiales			Rhopalodiales	Bacillariophyceae	Ochrophyta	Chromista	P
+Surirellales			Surirellales	Bacillariophyceae	Ochrophyta	Chromista	P
+Tabellariales			Tabellariales	Bacillariophyceae	Ochrophyta	Chromista	P
+Thalassiophysales			Thalassiophysales	Bacillariophyceae	Ochrophyta	Chromista	P
+Thalassiosirales			Thalassiosirales	Bacillariophyceae	Ochrophyta	Chromista	P
+Triceratiales			Triceratiales	Bacillariophyceae	Ochrophyta	Chromista	P
+Chromulinales			Chromulinales	Chrysophyceae	Ochrophyta	Chromista	P
+Hibberdiales			Hibberdiales	Chrysophyceae	Ochrophyta	Chromista	P
+Synurales			Synurales	Chrysophyceae	Ochrophyta	Chromista	P
+Eustigmatales			Eustigmatales	Eustigmatophyceae	Ochrophyta	Chromista	P
+Mischococcales			Mischococcales	Xanthophyceae	Ochrophyta	Chromista	P
+Spumellaria			Spumellaria	Polycystina		Chromista	P
+Zygnematales			Zygnematales	Zygnematophyceae	Charophyta	Plantae	P
+Chaetophorales			Chaetophorales	Chlorophyceae	Chlorophyta	Plantae	P
+Chlamydomonadales			Chlamydomonadales	Chlorophyceae	Chlorophyta	Plantae	P
+Sphaeropleales			Sphaeropleales	Chlorophyceae	Chlorophyta	Plantae	P
+Tetrasporales			Tetrasporales	Chlorophyceae	Chlorophyta	Plantae	P
+Volvocales			Volvocales	Chlorophyceae	Chlorophyta	Plantae	P
+Chlorellales			Chlorellales	Trebouxiophyceae	Chlorophyta	Plantae	P
+Oocystales			Oocystales	Trebouxiophyceae	Chlorophyta	Plantae	P
+Trebouxiophyceae				Trebouxiophyceae	Chlorophyta	Plantae	P
+Ulotrichales			Ulotrichales	Ulvophyceae	Chlorophyta	Plantae	P
+Entosiphonida			Entosiphonida	Entosiphonea	Euglenozoa	Protozoa	P
+Euglenida			Euglenida	Euglenoidea	Euglenozoa	Protozoa	P
+Ceratiomyxales			Ceratiomyxales	Protosteliomycetes	Mycetozoa	Protozoa	P
+Spongillidae		Spongillidae	Spongillida	Demospongiae	Porifera	Animalia	S
+Diplostraca			Diplostraca	Branchiopoda	Arthropoda	Animalia	Z
+Copepoda			Cyclopoida	Copepoda	Arthropoda	Animalia	Z
+Ostracoda				Ostracoda	Arthropoda	Animalia	Z
+Bdelloidea			Bdelloidea	Eurotatoria	Rotifera	Animalia	Z
+Flosculariaceae			Flosculariaceae	Eurotatoria	Rotifera	Animalia	Z
+Ploima			Ploima	Eurotatoria	Rotifera	Animalia	Z
